@@ -1,5 +1,3 @@
-% Sofia Kyriaki Machaira sdi2000125
-
 :- lib(ic).
 :- lib(ic_global).
 
